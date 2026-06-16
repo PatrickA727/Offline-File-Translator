@@ -2,6 +2,8 @@
 CLAUDE.md
 __pycache__
 node_modules
+venv
+temp/*
 logs
 *.log
 npm-debug.log*
