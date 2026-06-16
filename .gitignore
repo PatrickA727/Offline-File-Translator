@@ -3,7 +3,7 @@ CLAUDE.md
 __pycache__
 node_modules
 venv
-temp/*
+doc-translator-be/temp/*
 logs
 *.log
 npm-debug.log*
